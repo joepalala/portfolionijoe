@@ -1,0 +1,14 @@
+{
+  "name": "portfolionijoe",
+  "version": "1.0.0",
+  "description": "a portfolio cli project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Jose Palala <deterium73@gmail.com> (http://jpalala.com)",
+  "license": "ISC"
+}
